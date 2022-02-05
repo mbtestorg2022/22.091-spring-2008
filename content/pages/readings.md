@@ -25,18 +25,201 @@ NRC Regulations Title 10, Code of Federal Regulations – Part 50, Domestic Lice
 
 Safety Culture Evaluation of the Davis-Besse Nuclear Power Station. Conducted by Performance, Safety, and Health Associates, Inc. April 14, 2003. ([PDF]({{< baseurl >}}/resources/mit22_091s08_read04))
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Overview, goals of course {{< br >}}{{< br >}} Review of reactor types {{< br >}}{{< br >}}  | Chapters 1, 2, and 4 \[RAK\] |
-| 2 | Review of reactor physics | Chapter 4 \[RAK\] |
-| 3 | Review of reactor kinetics and control | Chapters 5 and 6 \[RAK\] |
-| 4 | Review of feedback effects and depletion | Chapter 6 \[RAK\] |
-| 6 | Reactor heat removal | Chapter 7 \[RAK\] |
-| 7 | Design issues: power cycles for nuclear plants |  {{< br >}}{{< br >}} Chapters 8, 9, and 10 \[RAK\] {{< br >}}{{< br >}} Chapter 2 \[MMEW\] {{< br >}}{{< br >}}  |
-| 8 | Power cycles for nuclear plants – Rankine and Brayton cycle | Chapters 7 and 8 \[MMEW\] |
-| 10 | Safety systems and functions |  {{< br >}}{{< br >}} Chapter 13 \[RAK\] {{< br >}}{{< br >}}  |
-| 11 | Safety analysis report and LOCA | Chapter 15 \[RAK\] |
-| 21 | Significant nuclear accidents – Three Mile Island | Rogovin, Mitchell. _Three Mile Island: A Report to the Commissioners and to the Public, Volume 1_. Washington DC, Washington: NRC, 1980. |
-| 22 | Significant nuclear accidents – Chernobyl | Chapter 15 \[RAK\] |
-| 24 | Role of safety culture |  {{< br >}}{{< br >}} FENOC Requests {{< br >}}{{< br >}} Sorensen, J. N. "Safety Culture: A Survey of the State-of-the-Art." _Reliability Engineering and System Safety_ 76, (2002): 189-204. {{< br >}}{{< br >}} Kadak, Andrew, C. "What's A Safety Culture? How Do I Get It? How Do I Keep It?" Nuclear Nonoperating Owner's Group, Boston, MA (September 28, 1989): 1-11. ([PDF]({{< baseurl >}}/resources/mit22_091s08_read03)) {{< br >}}{{< br >}}  |
-| 25 | Current regulatory issues | NRC Generic Letter 92-01, Revision 1, Supplement: Reactor Vessel Structural Integrity. May 19, 1995. U. S. NRC. ([PDF - 2.6MB]({{< baseurl >}}/resources/mit22_091s08_read05))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview, goals of course
+
+Review of reactor types
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1, 2, and 4 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Review of reactor physics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Review of reactor kinetics and control
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 5 and 6 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Review of feedback effects and depletion
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Reactor heat removal
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Design issues: power cycles for nuclear plants
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapters 8, 9, and 10 \[RAK\]
+
+Chapter 2 \[MMEW\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Power cycles for nuclear plants – Rankine and Brayton cycle
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 7 and 8 \[MMEW\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Safety systems and functions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 13 \[RAK\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Safety analysis report and LOCA
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Significant nuclear accidents – Three Mile Island
+{{< tdclose >}}
+{{< tdopen >}}
+Rogovin, Mitchell. _Three Mile Island: A Report to the Commissioners and to the Public, Volume 1_. Washington DC, Washington: NRC, 1980.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Significant nuclear accidents – Chernobyl
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Role of safety culture
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+FENOC Requests
+
+Sorensen, J. N. "Safety Culture: A Survey of the State-of-the-Art." _Reliability Engineering and System Safety_ 76, (2002): 189-204.
+
+Kadak, Andrew, C. "What's A Safety Culture? How Do I Get It? How Do I Keep It?" Nuclear Nonoperating Owner's Group, Boston, MA (September 28, 1989): 1-11. ([PDF]({{< baseurl >}}/resources/mit22_091s08_read03))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Current regulatory issues
+{{< tdclose >}}
+{{< tdopen >}}
+NRC Generic Letter 92-01, Revision 1, Supplement: Reactor Vessel Structural Integrity. May 19, 1995. U. S. NRC. ([PDF - 2.6MB]({{< baseurl >}}/resources/mit22_091s08_read05))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

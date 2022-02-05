@@ -14,24 +14,421 @@ PRISM problem set ([PDF]({{< baseurl >}}/resources/mit22_091s08_assn02))
 
 Simulator assignment ([PDF]({{< baseurl >}}/resources/mit22_091s08_assn03))
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Overview, goals of course {{< br >}}{{< br >}} Review of reactor types {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Read chapter 1, problems 1.9, 1.10, and 1.12 \[RAK\] {{< br >}}{{< br >}} Read chapter 2, problems 2.7 and 2.12 \[RAK\] {{< br >}}{{< br >}} Read chapter 4 \[RAK\] {{< br >}}{{< br >}}  |
-| 2 | Review of reactor physics | Read chapter 4, problem 4.3, 5, 8, 10, 11, 14, and 15 \[RAK\] |
-| 3 | Review of reactor kinetics and control |  {{< br >}}{{< br >}} Read chapter 5, problems: 1, 4, 6, and 9 \[RAK\] {{< br >}}{{< br >}} Read chapter 6 for next class \[RAK\] {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Review of feedback effects and depletion {{< br >}}{{< br >}} Fuel depletion and related effects {{< br >}}{{< br >}}  | Read chapter 6, problems: 6.2, 6, 7, 9, 11, and 15 \[RAK\] |
-| 5 | MIT reactor physics exercise – power change – feedbacks | MITR reactor manipulations assignment handed out |
-| 6 |  {{< br >}}{{< br >}} Reactor heat removal {{< br >}}{{< br >}} MITR experiment {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Read Knief chapter 7, problems 7.2, 5, 6, and 8 \[RAK\] {{< br >}}{{< br >}}  |
-| 7 | Design issues: power cycles for nuclear plants |  {{< br >}}{{< br >}} Read chapters 8, 9, and 10 \[RAK\] {{< br >}}{{< br >}} Outside reading El-Wakil, problems: 2.7 and 7.4 \[MMEW\] {{< br >}}{{< br >}}  |
-| 8 | Power cycles for nuclear plants – Rankine and Brayton Cycle |  {{< br >}}{{< br >}} Handout problem {{< br >}}{{< br >}} MITR assignment due {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Power cycles continued {{< br >}}{{< br >}} Safety systems and functions {{< br >}}{{< br >}}  | Read chapter 13, problems: 13.3, 13.5, 13.8, and 13.12 extra: 13.11 \[RAK\] |
-| 10 |  {{< br >}}{{< br >}} Safety systems and functions {{< br >}}{{< br >}} Safety analysis report and LOCA {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Read chapter 14, problems: 14.9, 11, 12, 21, and 23 \[RAK\] {{< br >}}{{< br >}} PRISM assignment due {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Safety analysis report and LOCA {{< br >}}{{< br >}} Probabilistic safety analysis {{< br >}}{{< br >}}  | Problems 14.12, 16, 19, 23, 24, and 28 \[RAK\] |
-| 13 |  {{< br >}}{{< br >}} Safety goals and risk informed decision making {{< br >}}{{< br >}} Integration of safety analysis into operational requirements {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Use the reactor oversight process site and identify the key safety issues in the last 2 quarters of the reactor nearest your home. {{< br >}}{{< br >}} Based on the review of the performance indicators, identify the particular NRC inspection reports upon which the finding is based. {{< br >}}{{< br >}} Summarize your review in a two page memo about the condition of this plant and the corrective actions being taken. {{< br >}}{{< br >}} Are you satisfied with the safety of this plant? {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} Integration of safety analysis into operational requirements {{< br >}}{{< br >}} Simulation exercises of accidents and transients {{< br >}}{{< br >}}  | Do PRISM problem set |
-| 15 |  {{< br >}}{{< br >}} Simulation exercises of accidents and transients {{< br >}}{{< br >}} Boiling water reactors {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Read BWR handouts {{< br >}}{{< br >}} Problem 3.3 \[MMEW\] {{< br >}}{{< br >}} PRISM assignment due 1 week after Ses #15 {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Simulator exercise – Seabrook PWR – LOCA, steam line break, etc {{< br >}}{{< br >}} Pilgrim general description {{< br >}}{{< br >}}  | Simulator assignment handed out |
-| 19 |  {{< br >}}{{< br >}} Preparation for simulator exercise - BWR {{< br >}}{{< br >}} Three Mile Island Accident {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Read RogovinReport executive summary {{< br >}}{{< br >}} Analyze event from the perspective of why the accident happened and why it became a such serious problem. (Beyond the obvious of failing to recognize the open PORV). Given your experience in the simulators (recall that the simulator you were in did not represent control rooms of the 1970's). {{< br >}}{{< br >}} \- Consider operator training  {{< br >}}\- Regulations  {{< br >}}\- Technical response  {{< br >}}\- Knowledge  {{< br >}}\- Control room design and instrumentation  {{< br >}}\- Fundamental design of reactor  {{< br >}}\- Management culture {{< br >}}{{< br >}} Read steam generator report for background on designs: 3 pages of analysis {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} Simulator exercise – Pilgrim BWR – LOCA, steam line break, rod repositioning {{< br >}}{{< br >}} Chernobyl accident {{< br >}}{{< br >}}  | Read chapter 15, problems 3, 10, 20, 27, and 32 \[RAK\] |
-| 21 |  {{< br >}}{{< br >}} Significant nuclear accidents – Three Mile Island {{< br >}}{{< br >}} Davis Besse Near Miss 2002 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Review the FENOC (Davis Besse) request for continued operation sent in late 2001 to justify operation until the spring out. {{< br >}}{{< br >}} Based on the information provided and the experience with Alloy 600, provide a technically based answer to the request – you may want to review the NRC letter granting approval to see if you agree – why and why not. {{< br >}}{{< br >}}  |
-| 22 |  {{< br >}}{{< br >}} Significant nuclear accidents – Chernobyl {{< br >}}{{< br >}} Safety culture {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Safety culture is an important aspect of safe nuclear plant support and operations. At present it is not "regulated" by the Nuclear Regulatory Commission and only indirectly assessed by INPO. {{< br >}}{{< br >}} Question: If you were a regulator, what regulation would you suggest with associated metrics to regulate safety culture? Please specifically identify the metric and how it will be measured considering all the factors associated with safety culture. Justify your answer. {{< br >}}{{< br >}} Read Sorensen article on "Safety Culture: A Survey of the State of the Art". {{< br >}}{{< br >}} Due Ses #25 – 2 pages {{< br >}}{{< br >}} Simulator assignment due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview, goals of course
+
+Review of reactor types
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read chapter 1, problems 1.9, 1.10, and 1.12 \[RAK\]
+
+Read chapter 2, problems 2.7 and 2.12 \[RAK\]
+
+Read chapter 4 \[RAK\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Review of reactor physics
+{{< tdclose >}}
+{{< tdopen >}}
+Read chapter 4, problem 4.3, 5, 8, 10, 11, 14, and 15 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Review of reactor kinetics and control
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read chapter 5, problems: 1, 4, 6, and 9 \[RAK\]
+
+Read chapter 6 for next class \[RAK\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review of feedback effects and depletion
+
+Fuel depletion and related effects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Read chapter 6, problems: 6.2, 6, 7, 9, 11, and 15 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+MIT reactor physics exercise – power change – feedbacks
+{{< tdclose >}}
+{{< tdopen >}}
+MITR reactor manipulations assignment handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reactor heat removal
+
+MITR experiment
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read Knief chapter 7, problems 7.2, 5, 6, and 8 \[RAK\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Design issues: power cycles for nuclear plants
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read chapters 8, 9, and 10 \[RAK\]
+
+Outside reading El-Wakil, problems: 2.7 and 7.4 \[MMEW\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Power cycles for nuclear plants – Rankine and Brayton Cycle
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout problem
+
+MITR assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Power cycles continued
+
+Safety systems and functions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Read chapter 13, problems: 13.3, 13.5, 13.8, and 13.12 extra: 13.11 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Safety systems and functions
+
+Safety analysis report and LOCA
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read chapter 14, problems: 14.9, 11, 12, 21, and 23 \[RAK\]
+
+PRISM assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Safety analysis report and LOCA
+
+Probabilistic safety analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problems 14.12, 16, 19, 23, 24, and 28 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Safety goals and risk informed decision making
+
+Integration of safety analysis into operational requirements
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Use the reactor oversight process site and identify the key safety issues in the last 2 quarters of the reactor nearest your home.
+
+Based on the review of the performance indicators, identify the particular NRC inspection reports upon which the finding is based.
+
+Summarize your review in a two page memo about the condition of this plant and the corrective actions being taken.
+
+Are you satisfied with the safety of this plant?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Integration of safety analysis into operational requirements
+
+Simulation exercises of accidents and transients
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Do PRISM problem set
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Simulation exercises of accidents and transients
+
+Boiling water reactors
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read BWR handouts
+
+Problem 3.3 \[MMEW\]
+
+PRISM assignment due 1 week after Ses #15
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Simulator exercise – Seabrook PWR – LOCA, steam line break, etc
+
+Pilgrim general description
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Simulator assignment handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Preparation for simulator exercise - BWR
+
+Three Mile Island Accident
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read RogovinReport executive summary
+
+Analyze event from the perspective of why the accident happened and why it became a such serious problem. (Beyond the obvious of failing to recognize the open PORV). Given your experience in the simulators (recall that the simulator you were in did not represent control rooms of the 1970's).
+
+\- Consider operator training  
+\- Regulations  
+\- Technical response  
+\- Knowledge  
+\- Control room design and instrumentation  
+\- Fundamental design of reactor  
+\- Management culture
+
+Read steam generator report for background on designs: 3 pages of analysis
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Simulator exercise – Pilgrim BWR – LOCA, steam line break, rod repositioning
+
+Chernobyl accident
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Read chapter 15, problems 3, 10, 20, 27, and 32 \[RAK\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Significant nuclear accidents – Three Mile Island
+
+Davis Besse Near Miss 2002
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review the FENOC (Davis Besse) request for continued operation sent in late 2001 to justify operation until the spring out.
+
+Based on the information provided and the experience with Alloy 600, provide a technically based answer to the request – you may want to review the NRC letter granting approval to see if you agree – why and why not.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Significant nuclear accidents – Chernobyl
+
+Safety culture
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Safety culture is an important aspect of safe nuclear plant support and operations. At present it is not "regulated" by the Nuclear Regulatory Commission and only indirectly assessed by INPO.
+
+Question: If you were a regulator, what regulation would you suggest with associated metrics to regulate safety culture? Please specifically identify the metric and how it will be measured considering all the factors associated with safety culture. Justify your answer.
+
+Read Sorensen article on "Safety Culture: A Survey of the State of the Art".
+
+Due Ses #25 – 2 pages
+
+Simulator assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

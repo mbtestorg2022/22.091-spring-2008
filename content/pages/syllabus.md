@@ -32,12 +32,57 @@ Assigned every class, due next class after date of assignment. Late homework wil
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 15% |
-| Exam 1 | 30% |
-| Exam 2 | 30% |
-| Final exam | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Literature Statement on Plagiarism
 --------------------------------------
@@ -47,31 +92,351 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Overview, goals of course {{< br >}}{{< br >}} Review of reactor types {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Review of reactor physics | &nbsp; |
-| 3 | Review of reactor kinetics and control | &nbsp; |
-| 4 | Review of feedback effects and depletion | &nbsp; |
-| 5 | MIT reactor physics exercise – power change – feedbacks | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Reactor heat removal {{< br >}}{{< br >}} MITR experiment {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Design issues: power cycles for nuclear plants | &nbsp; |
-| 8 | Power cycles for nuclear plants – Rankine and Brayton cycle | MITR assignment due |
-| 9 | Power cycles continued | &nbsp; |
-| 10 | Safety systems and functions |  {{< br >}}{{< br >}} Exam 1 is a week after Ses #10 {{< br >}}{{< br >}} PRISM assignment due {{< br >}}{{< br >}}  |
-| 11 | Safety analysis report and LOCA | &nbsp; |
-| 12 | Probabilistic safety analysis | &nbsp; |
-| 13 | Safety goals and risk informed decision making | &nbsp; |
-| 14 | Integration of safety analysis into operational requirements | &nbsp; |
-| 15 | Simulation exercises of accidents and transients | &nbsp; |
-| 16 | Boiling water reactors | &nbsp; |
-| 17 | Seabrook background information and preparation for simulator exercise | PRISM assignment due |
-| 18 | Simulator exercise – Seabrook PWR – LOCA, steam line break, etc | &nbsp; |
-| 19 | Preparation for simulator exercise – BWR | &nbsp; |
-| 20 | Simulator exercise – Pilgrim BWR – LOCA, steam line break, rod repositioning | &nbsp; |
-| 21 | Significant nuclear accidents – Three Mile Island | &nbsp; |
-| 22 | Significant nuclear accidents – Chernobyl | Simulator assignment due |
-| 23 | Importance of precursors – Davis Besse Near Miss 2002 | &nbsp; |
-| 24 | Role of safety culture | Exam 2 is 2 days after Ses #24 |
-| 25 | Current regulatory issues | &nbsp; |
-| 26 | Advanced reactor designs – EPR, ABWR, ESBWR, AP-1000, Pebble Bed Reactor | Final exam is 1 week after Ses #26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview, goals of course
+
+Review of reactor types
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Review of reactor physics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Review of reactor kinetics and control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Review of feedback effects and depletion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+MIT reactor physics exercise – power change – feedbacks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reactor heat removal
+
+MITR experiment
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Design issues: power cycles for nuclear plants
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Power cycles for nuclear plants – Rankine and Brayton cycle
+{{< tdclose >}}
+{{< tdopen >}}
+MITR assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Power cycles continued
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Safety systems and functions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exam 1 is a week after Ses #10
+
+PRISM assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Safety analysis report and LOCA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Probabilistic safety analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Safety goals and risk informed decision making
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Integration of safety analysis into operational requirements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Simulation exercises of accidents and transients
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Boiling water reactors
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Seabrook background information and preparation for simulator exercise
+{{< tdclose >}}
+{{< tdopen >}}
+PRISM assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Simulator exercise – Seabrook PWR – LOCA, steam line break, etc
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Preparation for simulator exercise – BWR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Simulator exercise – Pilgrim BWR – LOCA, steam line break, rod repositioning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Significant nuclear accidents – Three Mile Island
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Significant nuclear accidents – Chernobyl
+{{< tdclose >}}
+{{< tdopen >}}
+Simulator assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Importance of precursors – Davis Besse Near Miss 2002
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Role of safety culture
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2 is 2 days after Ses #24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Current regulatory issues
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced reactor designs – EPR, ABWR, ESBWR, AP-1000, Pebble Bed Reactor
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam is 1 week after Ses #26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
