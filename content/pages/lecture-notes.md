@@ -33,7 +33,7 @@ TEACHING NOTES
 Introduction and overview
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit22_091s08_lec01))
+([PDF - 2.0MB]({{< baseurl >}}/resources/mit22_091s08_lec01))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec01note))
@@ -48,7 +48,7 @@ Introduction and overview
 Reactor physics review
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_091s08_lec02))
+([PDF]({{< baseurl >}}/resources/mit22_091s08_lec02))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec02note))
@@ -78,7 +78,7 @@ Reactor kinetics and control
 Fuel depletion and related effects
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_091s08_lec04))
+([PDF]({{< baseurl >}}/resources/mit22_091s08_lec04))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec04note))
@@ -108,7 +108,7 @@ MIT reactor physics exercise – power change
 Reactor energy removal
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit22_091s08_lec06))
+([PDF - 1.1MB]({{< baseurl >}}/resources/mit22_091s08_lec06))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec06note))
@@ -123,7 +123,7 @@ Reactor energy removal
 Design issues: power cycles for nuclear plants - Rankine Cycle
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_091s08_lec07))
+([PDF]({{< baseurl >}}/resources/mit22_091s08_lec07))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec07note))
@@ -138,7 +138,7 @@ Design issues: power cycles for nuclear plants - Rankine Cycle
 Power cycles for nuclear plants – Rankine and Brayton Cycle
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_091s08_lec08))
+([PDF]({{< baseurl >}}/resources/mit22_091s08_lec08))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec08note))
@@ -153,7 +153,7 @@ Power cycles for nuclear plants – Rankine and Brayton Cycle
 Safety systems and functions
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_091s08_lec09))
+([PDF]({{< baseurl >}}/resources/mit22_091s08_lec09))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec09note))
@@ -168,7 +168,7 @@ Safety systems and functions
 Safety analysis report and LOCA
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_091s08_lec10))
+([PDF]({{< baseurl >}}/resources/mit22_091s08_lec10))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec10note))
@@ -183,7 +183,7 @@ Safety analysis report and LOCA
 Probabilistic safety analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit22_091s08_lec11))
+([PDF - 1.1MB]({{< baseurl >}}/resources/mit22_091s08_lec11))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec11note))
@@ -243,7 +243,7 @@ Simulation exercises of accidents and transients
 Boiling water reactors
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_091s08_lec15))
+([PDF]({{< baseurl >}}/resources/mit22_091s08_lec15))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec15note))
@@ -288,7 +288,7 @@ Seabrook station simulator exercises
 Pilgrim station background information
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit22_091s08_lec18))
+([PDF - 1.9MB]({{< baseurl >}}/resources/mit22_091s08_lec18))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec18note))
@@ -303,7 +303,7 @@ Pilgrim station background information
 Three Mile Island Accident
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit22_091s08_lec19))
+([PDF]({{< baseurl >}}/resources/mit22_091s08_lec19))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec19note))
@@ -333,7 +333,7 @@ Chernobyl
 Davis Besse – near miss 2002
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB]({{< baseurl >}}/resources/mit22_091s08_lec21))
+([PDF - 1.8MB]({{< baseurl >}}/resources/mit22_091s08_lec21))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit22_091s08_lec21note))
