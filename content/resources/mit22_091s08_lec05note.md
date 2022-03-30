@@ -6,6 +6,7 @@ description: Teaching notes for a lecture on reactor physics, reactivity effects
   worth.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-091-nuclear-reactor-safety-spring-2008/38a867d75a71cd0235ebe5bc75246745_MIT22_091S08_lec05note.pdf
 file_type: application/pdf
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 5 \u2013 MIT Reactor Physics Exercise - Power Change"
 uid: 38a867d7-5a71-cd02-35eb-e5bc75246745
